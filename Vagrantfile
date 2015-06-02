@@ -28,5 +28,4 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 	end
 	dev_environment.ssh.shell = "bash -c 'BASH_ENV=/etc/profile exec bash'"
   end
-  config.vm.synced_folder "D:/Workspaces/", "/opt/workspaces/shared"
 end

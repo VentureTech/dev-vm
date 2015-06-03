@@ -1,0 +1,7 @@
+modules
+.vagrant
+.librarian
+.tmp
+*.swp
+.tmp/
+modules/

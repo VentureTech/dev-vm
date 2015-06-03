@@ -1,0 +1,7 @@
+forge "https://forgeapi.puppetlabs.com"
+
+mod 'puppetlabs/apache'
+mod 'gini/idea'
+mod 'puppetlabs/postgresql'
+mod 'puppetlabs/apt'
+mod 'maestrodev/rvm'
